@@ -18,6 +18,3 @@ This project explores the use of large language models (LLMs) and retweet networ
 
 Full-feature prompts combining text and network signals significantly improved bot detection performance (Recall ↑ from 55% to 72%).
 
-## 👥 Authors
-
-Lior Biton, Coral Yagud, Orel Jaraian
